@@ -1,0 +1,1 @@
+worker: python bot_telegram_envio_midia_loop_ate_cancelar.py
